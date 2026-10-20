@@ -1,0 +1,36 @@
+Java Collections Framework
+
+O Java Collections Framework é uma ferramenta útil e que não poderia ser esgotada neste espaço.
+No entanto, como programador, você deve saber todas as possibilidades que ele oferece. 
+Você encontrará informações abundantes na internet, mas o ponto de partida ideal é a documentação oficial da linguagem, 
+disponível em docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html.
+
+Set
+Representa conjuntos e não admite elementos duplicados.
+
+List
+Implementa o conceito de listas e admite duplicidade de elementos. 
+É uma coleção ordenada que permite o acesso direto ao elemento armazenado, 
+assim como a definição da posição em que está armazenado.
+
+Queue
+Implementa algo mais genérico do que uma fila. 
+Pode ser usada para criar uma fila (FIFO), mas também pode implementar uma lista de prioridades, 
+na qual os elementos são ordenados e consumidos segundo a prioridade, e não na ordem de chegada. 
+Essa coleção admite a criação de outros tipos de filas com outras regras de ordenação.
+
+Deque
+Implementa a estrutura de dados conhecida como Deque (double ended queue). 
+Pode ser usada como uma fila (FIFO) ou uma pilha (LIFO). 
+Admite a inserção e retirada em ambas as extremidades.
+
+
+
+
+
+
+
+
+
+
+
